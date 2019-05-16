@@ -7,6 +7,8 @@ public class Demo2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("HELLLOOO");
+		
+		System.out.println("byee byee");
 
 	}
 
